@@ -1,4 +1,5 @@
-name: Tag and Release
+name: stonersdash
+
 
 on:
   workflow_dispatch:
